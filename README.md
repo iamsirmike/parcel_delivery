@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+## Screenshot
+<div align="center">
+    <img src="/ss/img1.jpg" width="400px" height="750" /> 
+    <img src="/ss/img2.jpg" width="400px" height="750" /> 
+   <img src="/ss/img3.jpg" width="400px" height="750" /> 
+</div>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
